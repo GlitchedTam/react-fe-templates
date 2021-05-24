@@ -1,0 +1,16 @@
+div.counter-container {
+    width: fit-content;
+    margin: auto;
+    padding: 5px;
+    border: 1px solid rosybrown;
+}
+
+button {
+    margin: 0px 6px;
+    border-radius: 25%;
+    border: 1px solid gray;
+}
+
+button:hover {
+    background: tomato;
+}

@@ -1,0 +1,11 @@
+{
+  "short_name": "React App template with redux",
+  "name": "Create-react-app template with redux",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
